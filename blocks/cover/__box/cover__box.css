@@ -1,0 +1,16 @@
+.cover__box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+
+.cover__box:hover {
+    cursor: pointer;
+}
+
+.cover__box:hover~.cover__overlay {
+    opacity: 0.8;
+    cursor: pointer;
+}

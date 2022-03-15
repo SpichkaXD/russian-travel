@@ -1,0 +1,21 @@
+.place {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 440px 456px;
+    
+    grid-column-gap: 32px;
+    margin-top: 80px ;
+}
+
+.place:first-of-type {
+    margin: 0;
+}
+
+/* !4элемент*/
+.place:nth-child(4n) {
+    grid-template-rows: 2fr 160px;
+}
+
+.place:nth-child(3n) {
+    grid-template-rows: 2fr 245px;
+}

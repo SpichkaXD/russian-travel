@@ -1,0 +1,7 @@
+.place__image {
+    margin-top: 48px;
+    grid-row-start: 2;
+    grid-row-end: 4; 
+    width: 440px;
+    height: 440px;   
+}

@@ -1,0 +1,10 @@
+.website__link {
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;    
+    transition: opacity 0.2s linear;
+}
+
+.website__link:hover {
+    opacity: 0.8;
+}
