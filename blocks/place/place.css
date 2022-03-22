@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .place {
     display: flex;
     flex-wrap: wrap;
@@ -11,30 +10,7 @@
 
 @media screen and (max-width: 320px) {
     .place {
-        margin-top: 50px; ;
+        margin-top: 50px;
+        ;
     }
-  }
-
-=======
-.place {
-    display: grid;
-    width: 100%;
-    grid-template-columns: 440px 456px;
-    
-    grid-column-gap: 32px;
-    margin-top: 80px ;
 }
-
-.place:first-of-type {
-    margin: 0;
-}
-
-/* !4элемент*/
-.place:nth-child(4n) {
-    grid-template-rows: 2fr 160px;
-}
-
-.place:nth-child(3n) {
-    grid-template-rows: 2fr 245px;
-}
->>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1

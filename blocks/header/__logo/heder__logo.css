@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .header__logo {
     width: 176px;
     height: 52px;
@@ -11,10 +10,4 @@
         width: 142px;
         height: 42px;
     }
-=======
-.header__logo {
-    width: 176px;
-    height: 52px;
-    background-image: url(../../../images/header-logo.svg);
->>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

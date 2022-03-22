@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cover__overlay{
     max-width: 100vw;
     width: 1184px;
@@ -34,21 +33,3 @@
         height: 200px;
     }
 }
-
-=======
-.cover__overlay{
-    width: 1024px;
-    height: 640px;
-    position: absolute;
-    background: #2A2C2F;
-    opacity: 0.3;  
-    transition: opacity 2s linear;
-}
-
-.cover__overlay:hover {
-    opacity: 0.8;
-    cursor: pointer;
-}
-    
-
->>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
