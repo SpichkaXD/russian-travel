@@ -4,6 +4,7 @@
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
+    margin-top: 40px;
 }
 
 .cover__box:hover {

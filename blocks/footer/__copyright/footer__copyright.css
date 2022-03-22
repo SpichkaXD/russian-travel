@@ -4,3 +4,9 @@
     line-height: 16px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 710px) {
+    .footer__copyright {
+        margin-left: 16px;
+        line-height: 14px;
+    }

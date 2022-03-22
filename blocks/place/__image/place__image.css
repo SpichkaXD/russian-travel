@@ -1,7 +1,31 @@
 .place__image {
     margin-top: 48px;
-    grid-row-start: 2;
-    grid-row-end: 4; 
-    width: 440px;
-    height: 440px;   
+    /* max-width: 460px;
+        max-height: 460px; */
+    width: calc(460 * 100% / (1280 - 148 - 148));
+    height: calc(460 * 100% / (1280 - 148 - 148));
+    min-width: 320px;
+    min-height: 320px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__image {
+        width: calc(440 * 100% / (1024 - 48 - 48));
+        height: calc(440 * 100% / (1024 - 48 - 48));
+        
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__image {
+        width: calc(340 * 100% / (768 - 24 - 24));
+        height: calc(340 * 100% / (768 - 24 - 24));
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .place__image {
+        width: 100vw;
+        margin-top: 32px;
+    }
 }

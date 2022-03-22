@@ -1,9 +1,22 @@
 .lead__sibtitle {
-    margin: 32px auto 56px;
-    width: 640px;
-    height: 72px;
+    margin: 32px auto 64px;
+    max-width: 640px;
     font-size: 30px;
-    line-height: 36px;
+    line-height: 1.2;
     text-align: center;
+    font-weight: 400;
     color: #FFFFFF;
+}
+@media screen and (max-width: 1024px) {
+    .lead__sibtitle  {
+        margin-bottom: 56px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .lead__sibtitle  {
+        margin: 16px auto 40px;
+        font-size: 16px;
+        line-height: 1.25;
+    }
 }

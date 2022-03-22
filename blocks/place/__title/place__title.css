@@ -1,8 +1,32 @@
 .place__title {
     margin: 0;
-    width: 440px;
     font-weight: 900;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 1.06;
     color: #fff;
+    width: calc(460 * 100% / (1280 - 148 - 148));
+    min-width: 228px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__title {
+        width: calc(440 * 100% / (1024 - 48 - 48));
+    }
+}
+
+@media screen and (max-width: 880px) {
+    .place__title {
+        width: calc(340 * 100% / (768 - 24 - 24));
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .place__title {
+        width: calc(288 * 100% / 320);
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0 auto;
+    }
 }

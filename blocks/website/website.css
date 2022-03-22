@@ -1,6 +1,18 @@
 .website {
-    display: flex;
-    flex-direction: column;
-   justify-content: end;
-   
+  max-width:  484px;
+  align-self: flex-end;
+  margin-left: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .website {
+    margin-left: 32px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .website {
+    width: calc(288 * 100% / 320);
+    margin: 32px auto 0;
+  }
 }
