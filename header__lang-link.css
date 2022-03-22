@@ -1,0 +1,46 @@
+#ru:checked~.header__lang-link_lang_ru {
+    text-decoration-line: underline;
+}
+
+#en:checked~.header__lang-link_lang_en {
+    text-decoration-line: underline;
+}
+
+
+
+
+
+
+.header__lang-link {
+    margin: 18px 0 6px;
+    line-height:28px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.header__lang-choise {
+    width: 29px;
+    height: 28px;
+    cursor: pointer;
+    opacity: 0%;
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    right: 0%;
+}
+
+.header__lang-choise:first-of-type {
+    left: 0%;
+}
+
+@media screen and (max-width: 320px) {
+
+    .header__lang-choise,
+    .header__lang-link_lang_ru,
+    .header__lang-link_lang_en {
+        width: 22px;
+        height: 20px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
