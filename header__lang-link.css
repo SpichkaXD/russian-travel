@@ -9,11 +9,9 @@
 
 
 
-
-
 .header__lang-link {
     margin: 18px 0 6px;
-    line-height:28px;
+    line-height: 28px;
     font-size: 24px;
     color: #fff;
 }
@@ -34,7 +32,6 @@
 }
 
 @media screen and (max-width: 320px) {
-
     .header__lang-choise,
     .header__lang-link_lang_ru,
     .header__lang-link_lang_en {
