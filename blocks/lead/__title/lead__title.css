@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .lead__title {
     margin: 0 auto;
     max-width: 720px;
@@ -29,3 +30,16 @@
 
 
 
+=======
+.lead__title {
+    margin: 0 auto;
+    width: 720px;
+    height: 200px;
+
+    color: white;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    text-align: center;
+}
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1

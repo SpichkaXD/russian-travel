@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__background {
     max-width: 100vw;
     width: 1184px;
@@ -26,4 +27,14 @@
         width: 320px;
         height: 200px;
     }  
+=======
+.cover__background {
+    width: 1024px;
+    height: 640px;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    z-index: 1;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

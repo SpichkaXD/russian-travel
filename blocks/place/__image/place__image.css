@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__image {
     margin-top: 48px;
     /* max-width: 460px;
@@ -28,4 +29,12 @@
         width: 100vw;
         margin-top: 32px;
     }
+=======
+.place__image {
+    margin-top: 48px;
+    grid-row-start: 2;
+    grid-row-end: 4; 
+    width: 440px;
+    height: 440px;   
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

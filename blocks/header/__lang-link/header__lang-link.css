@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ru:checked~.header__lang-link_lang_ru {
     text-decoration-line: underline;
 }
@@ -35,4 +36,34 @@
         font-size: 18px;
         line-height: 20px;
     }
+=======
+#ru:checked~.header__lang-link_lang_ru {
+    text-decoration-line: underline;
+}
+
+#en:checked~.header__lang-link_lang_en {
+    text-decoration-line: underline;
+}
+
+.header__lang-link {
+    margin: 18px 0 6px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #fff;
+}
+
+.header__lang-choise {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    opacity: 0%;
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    right: 0%;
+}
+
+.header__lang-choise:first-of-type {
+    left: 0%;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

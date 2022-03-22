@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__box {
     position: absolute;
     left: 50%;
@@ -14,4 +15,21 @@
 .cover__box:hover~.cover__overlay {
     opacity: 0.8;
     cursor: pointer;
+=======
+.cover__box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+
+.cover__box:hover {
+    cursor: pointer;
+}
+
+.cover__box:hover~.cover__overlay {
+    opacity: 0.8;
+    cursor: pointer;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

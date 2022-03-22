@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer {
     padding: 92px 48px 24px;
     display: flex;
@@ -22,4 +23,10 @@
         flex-direction: column;
         padding: 64px 0px 24px;
     }
+=======
+.footer {
+    padding:92px 48px 24px;
+    display: flex;
+    justify-content: space-between;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

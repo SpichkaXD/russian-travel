@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .intro__title {
     margin: 0;
     font-weight: 900;
@@ -13,4 +14,12 @@
         font-size: 32px;
         line-height: 1.09;
     }
+=======
+.intro__title {
+    margin: 0;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    color: #FFFFFF;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

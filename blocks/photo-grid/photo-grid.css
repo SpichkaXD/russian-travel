@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .photo-grid {
     padding: 92px 48px 0;
     display: grid;
@@ -29,3 +30,11 @@
         padding: 64px 16px 0;
     }
 }
+=======
+.photo-grid {
+    padding: 92px 48px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-gap: 14px;
+}
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1

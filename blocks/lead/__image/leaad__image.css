@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .lead__image {
     width: 984px;
     max-width: 100vw;
@@ -8,4 +9,9 @@
     .lead__image {
         width: 928px;
     }
+=======
+.lead__image {
+    width: 928px;
+    height: 580px;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

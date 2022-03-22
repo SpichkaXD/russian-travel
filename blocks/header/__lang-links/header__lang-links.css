@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__lang-links {
   display: flex;
   justify-content: space-between;
@@ -10,4 +11,12 @@
   .header__lang-links {
       width: 62px ;
   }
+=======
+.header__lang-links {
+  display: flex;
+  justify-content: space-between;
+  width: 74px;
+  height: 52px;
+    position: relative;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

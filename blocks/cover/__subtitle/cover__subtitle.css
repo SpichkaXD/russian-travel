@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__subtitle {
     margin: 32px auto 0;
     width: 360px;
@@ -15,4 +16,14 @@
         width: 288px;
         margin: 16px auto 0;
     }
+=======
+.cover__subtitle {
+    
+    margin: 32px auto 0;
+    width: 360px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }

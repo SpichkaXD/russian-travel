@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .lead__sibtitle {
     margin: 32px auto 64px;
     max-width: 640px;
@@ -20,3 +21,14 @@
         line-height: 1.25;
     }
 }
+=======
+.lead__sibtitle {
+    margin: 32px auto 56px;
+    width: 640px;
+    height: 72px;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1

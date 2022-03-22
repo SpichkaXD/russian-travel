@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .photo-grid__item {
     object-fit: cover;
     
@@ -25,4 +26,9 @@
         width: 288px;
         height: 216px;
     }
+=======
+.photo-grid__item {
+    width: 300px;
+    height: 225px;
+>>>>>>> 322d83ce4888f94e010de66ac36308bf80e97cb1
 }
