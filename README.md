@@ -28,7 +28,7 @@
 
 ## 🔧 GitHub Pages <a name = "GitHubPages"></a>
 
-* [ Ссылка на макет вGitHub Pages]( )
+* [ Ссылка на макет в GitHub Pages](https://spichkaxd.github.io/russian-travel/index.html)
 
 &ensp;
 
