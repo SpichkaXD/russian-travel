@@ -18,7 +18,7 @@
     .place__title {
         width: calc(340 * 100% / (768 - 24 - 24));
         font-size: 42px;
-        line-height: 46px;
+        line-height: 1.1;
     }
 }
 
@@ -26,7 +26,7 @@
     .place__title {
         width: calc(288 * 100% / 320);
         font-size: 32px;
-        line-height: 35px;
+        line-height: 1.09;
         margin: 0 auto;
     }
 }
