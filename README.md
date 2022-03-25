@@ -33,7 +33,4 @@
 &ensp;
 
 ## ✍️ Authors <a name = "authors"></a>
-
-
-
 &ensp; &ensp;[@SpichkaXD](https://github.com/SpichkaXD)
